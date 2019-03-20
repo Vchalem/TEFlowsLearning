@@ -12,7 +12,7 @@ sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
 
 sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
 
-sfdx force:source:push 
+sfdx force:source:push -f
 
 #sfdx assign permission sets
 sfdx force:user:permset:assign -n Credit_Line_Increase_Demo
