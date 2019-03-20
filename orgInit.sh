@@ -14,7 +14,7 @@ sfdx force:package:install --package 04t1U000005ZS27 -w 20
 
 #sfdx force:mdapi:deploy --deploydir mdapi-source/org-config
 
-sfdx force:source:push -f
+sfdx force:source:push
 
 #sfdx assign permission sets
 sfdx force:user:permset:assign -n Credit_Line_Increase_Demo
