@@ -788,11 +788,4 @@
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
     </userPermissions>
-    <layoutAssignments>
-        <layout>Account-TE Learning Day Account Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-TE Learning Day Case Layout</layout>
-    </layoutAssignments>
-
 </Profile>

@@ -25,16 +25,4 @@
         <label>Closed</label>
         <closed>true</closed>
     </standardValue>
-    <standardValue>
-        <fullName>Closed - Increase Approved</fullName>
-        <default>false</default>
-        <label>Closed - Increase Approved</label>
-        <closed>true</closed>
-    </standardValue>
-    <standardValue>
-        <fullName>Closed - Increase Declined</fullName>
-        <default>false</default>
-        <label>Closed - Increase Declined</label>
-        <closed>true</closed>
-    </standardValue>
 </StandardValueSet>

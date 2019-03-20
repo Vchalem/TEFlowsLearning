@@ -26,9 +26,4 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
-    <standardValue>
-        <fullName>Credit Increase Request</fullName>
-        <default>false</default>
-        <label>Credit Increase Request</label>
-    </standardValue>
 </StandardValueSet>
