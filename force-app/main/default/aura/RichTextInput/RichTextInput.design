@@ -1,4 +1,0 @@
-<design:component>
-	<design:attribute name="myComments" label="Comments" />
-    <design:attribute name="theLabel" label="Rich Text Label"/>
-</design:component>
