@@ -763,4 +763,10 @@
         <enabled>true</enabled>
         <name>WorkCalibrationUser</name>
     </userPermissions>
+     <layoutAssignments>
+        <layout>Account-telearndaypkg__TE Learning Day Account Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-telearndaypkg__TE Learning Day Case Layout</layout>
+    </layoutAssignments>
 </Profile>

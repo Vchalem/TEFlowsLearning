@@ -7,9 +7,6 @@ sfdx force:package:install --package 04t1U0000066Af4 -w 20
 
 sfdx force:package:install --package 04t1U000005ZS27 -w 20  
 
-
-sfdx force:mdapi:deploy --deploydir mdapi-source/app-config
-
 sfdx force:source:push -f
 
 #sfdx assign permission sets
