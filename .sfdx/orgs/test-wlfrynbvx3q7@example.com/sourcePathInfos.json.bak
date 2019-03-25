@@ -1,0 +1,347 @@
+[
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553523961227,
+            "changeTime": 1553523961227,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553523961229,
+            "changeTime": 1553523961229,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1553525056702,
+            "changeTime": 1553525056702,
+            "contentHash": "6534ff4398869cd3bcf6202e44fc41452903d2e3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553525056702,
+            "changeTime": 1553525056702,
+            "contentHash": "83bfecf6dcd64d32e03df25db63999204a92ca0f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1553525056704,
+            "changeTime": 1553525056704,
+            "contentHash": "026e239a00f95125d7cd761d6ef3a670f852226d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 319,
+            "modifiedTime": 1553525056703,
+            "changeTime": 1553525056703,
+            "contentHash": "f8cbcb835ff41445850249f6314374275ab69a28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1553525056702,
+            "changeTime": 1553525056702,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInput.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 159,
+            "modifiedTime": 1553525056704,
+            "changeTime": 1553525056704,
+            "contentHash": "35f72b0ae826e74125dc6a0b3e569ee96b9f7b41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInputController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInputController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 60,
+            "modifiedTime": 1553525056704,
+            "changeTime": 1553525056704,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInputHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/aura/RichTextInput/RichTextInputHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1553525056705,
+            "changeTime": 1553525056705,
+            "contentHash": "c3c6efda41de64b759982510d6a2c72226aa087f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553524609613,
+            "changeTime": 1553524609613,
+            "contentHash": "c905fa02c331b428143bfa8ad1b2befca3ea23ca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/flexipages/Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6751,
+            "modifiedTime": 1553524590162,
+            "changeTime": 1553524604609,
+            "contentHash": "7736d5606024c7cc7dd1869494011e132d29d9a6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553524449881,
+            "changeTime": 1553524449881,
+            "contentHash": "9b027aa924d3cee5409cafdcad5f9053555b4334",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows/Credit_Approval.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows/Credit_Approval.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9609,
+            "modifiedTime": 1553524449881,
+            "changeTime": 1553524449881,
+            "contentHash": "9e7bc5cfd5df1149a376cc1cfb74e4a981e42ad6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows/Credit_Line_Increase_Template_My_Version.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/flows/Credit_Line_Increase_Template_My_Version.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18848,
+            "modifiedTime": 1553524449881,
+            "changeTime": 1553524449881,
+            "contentHash": "2dece6e2ce556b171bfc546037b08d3512bf8324",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553524449888,
+            "changeTime": 1553524449888,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23104,
+            "modifiedTime": 1553524449888,
+            "changeTime": 1553524487409,
+            "contentHash": "3550a2b20abd616fd268257cacbef105e06c3745",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1553525056700,
+            "changeTime": 1553525056700,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/settings/OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1553525056700,
+            "changeTime": 1553525056700,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1553524395202,
+            "changeTime": 1553524500911,
+            "contentHash": "d915f229e3ac5e039d822811872fc3d72ed33fe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets/CaseStatus.standardValueSet-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets/CaseStatus.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1257,
+            "modifiedTime": 1553524395202,
+            "changeTime": 1553524418499,
+            "contentHash": "3c4a9d031ebc63b2f624515b3959a085821b9a78",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets/CaseType.standardValueSet-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning/force-app/main/default/standardValueSets/CaseType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1553524395202,
+            "changeTime": 1553524418500,
+            "contentHash": "75fecd9188a1e3f9422ef7dbdb2c0911051d215f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/vchalem/TEFlowsLearning",
+        {
+            "state": "n",
+            "sourcePath": "/Users/vchalem/TEFlowsLearning",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1553524652275,
+            "changeTime": 1553524652275,
+            "contentHash": "0c37e0d119dc824b63248324c0cc9c2d1793c118",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
