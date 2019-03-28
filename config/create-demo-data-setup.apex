@@ -6,7 +6,8 @@ User u = [select id, name, UserPermissionsInteractionUser, LastName, FirstName, 
 
 //create user as flows user
 u.UserPermissionsInteractionUser=true;
-Update u;
+
+update u;
 
 //reset pwd
 System.resetPassword (u.Id, true);
