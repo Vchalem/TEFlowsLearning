@@ -17,11 +17,10 @@ sfdx force:user:permset:assign -n Credit_Line_Increase_Demo
 #assign flows perm set..
 
 # Include the comprehensive plan to load all data items
-sfdx force:data:tree:import --plan data/Plan1.json
+#sfdx force:data:tree:import --plan data/Plan1.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
-#data tree import...
 
 
 sfdx force:org:open
