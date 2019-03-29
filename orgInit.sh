@@ -1,8 +1,5 @@
 #!/bin/bash
 
-#Temp change to force sfdx update
-sfdx update
-
 sfdx force:org:create -f config/project-scratch-def.json -a FlowsADK --setdefaultusername -d 1
 
 #add pckg IDs to Idnum
