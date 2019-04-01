@@ -641,8 +641,4 @@
     <layoutAssignments>
         <layout>Case-telearndaypkg__TE Learning Day Case Layout</layout>
     </layoutAssignments>
-    <compactLayoutAssignments>
-        <compactLayout>Account-telearndaypkg__TE_Learning_Day_Compact_Layout</compactLayout>
-    </compactLayoutAssignments>
-
 </Profile>
