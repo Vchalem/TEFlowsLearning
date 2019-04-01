@@ -21,7 +21,6 @@ sfdx force:data:tree:import --plan data/Plan1.json
 
 sfdx force:apex:execute -f config/create-demo-data-setup.apex
 
-#data tree import...
 
 
 sfdx force:org:open
