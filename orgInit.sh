@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sfdx force:org:create -f config/project-scratch-def.json -a FlowsADK --setdefaultusername -d 14
+sfdx force:org:create -f config/project-scratch-def.json -d 14
 
 #add pckg IDs to Idnum
 sfdx force:package:install --package 04t1U0000066Af4 -w 20
